@@ -1,2 +1,2 @@
-html file
-css file
+amazon cloning
+
